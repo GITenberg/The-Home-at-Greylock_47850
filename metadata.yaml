@@ -1,4 +1,8 @@
 _repo: The-Home-at-Greylock_47850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prentiss, E. (Elizabeth)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/948
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Prentiss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47850#The-Home-at-Greylock
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
 identifiers:
